@@ -19,7 +19,7 @@ pluginManagement {
             url = uri("https://maven.pkg.github.com/Timpuneen/chatlibrary")
             credentials {
                 username = "Timpuneen"
-                password = "secretik"
+                password = "secretik(token)"
             }
         }
         ...
@@ -32,7 +32,7 @@ dependencyResolutionManagement {
             url = uri("https://maven.pkg.github.com/Timpuneen/chatlibrary")
             credentials {
                 username = "Timpuneen"
-                password = "secretik"
+                password = "secretik(token)"
             }
         }
         ...
