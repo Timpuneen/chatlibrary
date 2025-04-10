@@ -7,7 +7,7 @@ Android library that provides a plug-and-play chat interface with WebSocket inte
 
 To use **ChatLibrary** in your project, follow these steps:
 
-### 1. Add the repository to your `build.gradle` file
+### 1. Add the repository to your `settings.gradle` file
 
 In your `settings.gradle.kts` file, add the GitHub Packages repository:
 
@@ -39,7 +39,7 @@ dependencyResolutionManagement {
     }
 }
 
-....
+...
 
 ```
 
